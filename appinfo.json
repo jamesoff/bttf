@@ -1,0 +1,17 @@
+{
+  "uuid": "9e27a66c-81d2-4b2d-838b-27466de20f5c",
+  "shortName": "bttf",
+  "longName": "bttf",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
